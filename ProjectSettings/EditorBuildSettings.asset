@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 7b75faedbd2880f40a06acbb1ac1d4f8
+  - enabled: 1
+    path: Assets/Scenes/Level Selector.unity
+    guid: 6a690bcb379f1f94aae519137c2db09d
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 99cb76a6dcfe6f940a6c94b4db5c5ead
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 759fe4c8a7394f94fa764dd72368ddb6
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 7e08655033a53dc43b2041c3848ae1a2
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: c368f54ac19cdb647a4272763c481c87
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 57f3ed0f60bd0514fb3cc4aac924e6da
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: efab3a9d27e58f24bbe391c5eaaad1ae
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 974e2690a2812ad4ca140eda7a025214
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 414f44a81fe286c42973d56a652c48d3
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 79c0949e8e151e0499f277189ab2f357
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f38fde49acabf234bb3134289d0133aa, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e58de6cf94155bd42892dcec5ea9a03a, type: 2}
